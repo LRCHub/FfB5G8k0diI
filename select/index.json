@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "サブマリーン",
+  "base_artist": "中島愛",
+  "createdAt": "2026-02-07T16:38:48.264547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サブマリーン",
+      "artist": "Nakajima, Megumi",
+      "has_synced": true,
+      "path": "select/01_サブマリーン_Nakajima,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サブマリーン",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/02_サブマリーン_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サブマリーン",
+      "artist": "中島 愛",
+      "has_synced": true,
+      "path": "select/03_サブマリーン_中島_愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サブマリーン",
+      "artist": "Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/04_サブマリーン_Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サブマリーン",
+      "artist": "中島 愛",
+      "has_synced": false,
+      "path": "select/pl_01_サブマリーン_中島_愛.txt"
+    }
+  ]
+}
